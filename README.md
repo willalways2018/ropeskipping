@@ -3,7 +3,7 @@
 
 ### 不能瘦毋宁死！！
 
-MdEditor：http://www.mdeditor.com/
-MaHua：http://www.mdeditor.com/<\ dr>
+MdEditor：http://www.mdeditor.com/ <br> 
+MaHua：http://www.mdeditor.com/
 
 
